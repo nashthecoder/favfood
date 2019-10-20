@@ -3,8 +3,10 @@
 
 ![An image of a sandwich](https://thefamilydinnerproject.org/wp-content/uploads/2014/07/Easy-grilled-chicken-sandwich-633x326.jpg)
 
-This recipe comes to us from FDP team member Bri DeRosa and her blog Red Round or Green.
-These sandwiches are a knock-off of a simple sandwich that I ate at restaurants as a kid.  You can add mayo or mustard or whatever you like on your chicken sandwiches; for me, it’s the plain-Jane version with just some good lettuce and tomato that does the trick. The marinade is also a fabulous salad dressing, so you can make extras and store in a mason jar in the refrigerator — it will last for weeks that way.  
+
+*You can add mayo or mustard or whatever you like on your chicken sandwiches; for me, it’s the plain-Jane version with just some good lettuce and tomato that does the trick. The marinade is also a fabulous salad dressing, so you can make extras and store in a mason jar in the refrigerator — it will last for weeks that way.*
+
+
 
 ## Ingredients
 

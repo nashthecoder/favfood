@@ -11,7 +11,7 @@ Recipe file created using markdown.
 * Created a new project folder on the desktop and write a blog post of your choice. 
 * Saved the file with .md as the extension on it, tracked the file with git.
 * Got additional formatting elements from [Daring Fireball](https://daringfireball.net/projects/markdown/syntax).
-* Use [Vscode](https://code.visualstudio.com/)code editor to view file. 
+* Use [VScode](https://code.visualstudio.com/)code editor to view file. 
 
 ## Support and contact details
 

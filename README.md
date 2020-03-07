@@ -21,6 +21,8 @@ If you run into any issues or have questions, ideas or concerns [email me](chepk
 
 _[StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites._
 
+git tag <tagname>
+
 ### License
 
 Copyright (c) 2019 **_NashTheCoder_**

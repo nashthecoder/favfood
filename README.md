@@ -6,7 +6,7 @@
 
 Recipe file created using markdown.
 
-## Setup/Installation Requirements
+## Process
 
 * Created a new project folder on the desktop and write a blog post of your choice. 
 * Saved the file with .md as the extension on it, tracked the file with git.

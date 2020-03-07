@@ -23,4 +23,4 @@ _[StackEdit](https://stackedit.io/) is a full-featured, open-source Markdown edi
 
 ### License
 
-Copyright (c) 2019 ** Mama Tech
+Copyright (c) 2019 **Mama Tech**

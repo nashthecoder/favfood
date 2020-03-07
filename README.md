@@ -1,4 +1,4 @@
-# _ Fav Food: Grilled Cheese Sandwich _
+# _Fav Food: Grilled Cheese Sandwich_
 
 #### By _**NashTheCoder**_
 

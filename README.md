@@ -4,17 +4,17 @@
 
 ## Description
 
-_{ How to create headers, use bold and italics, and make lists in Markdown. }_
+Recipe file created using markdown.
 
 ## Setup/Installation Requirements
 
-* _Created a new project folder on the desktop and write a blog post of your choice. 
-* _Save the file with .md as the extension on it, tracked the file with git.
-* _Go to [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) for additonal formatting elements.
+* Created a new project folder on the desktop and write a blog post of your choice. 
+* Save the file with .md as the extension on it, tracked the file with git.
+* Go to [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) for additonal formatting elements.
 
 ## Support and contact details
 
-_{If they run into any issues or have questions, ideas or concerns [email me](chepkoech@mumlovestech.com)}_
+If you run into any issues or have questions, ideas or concerns [email me](chepkoech@mumlovestech.com)
 
 ## Technologies Used
 
